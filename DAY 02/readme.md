@@ -1,7 +1,7 @@
 ## NAME: ODDI, MARYAM OLAMIDE
 ## TASK: DAILY-UPDATE.MD
-## DATE: 30TH JUNE,2025
-## TIME:2:03PM
+## DATE: 31ST JUNE,2025
+## TIME: 3:35AM
 
 **### Set Up Process Activity**
    - Set up your AWS account.
