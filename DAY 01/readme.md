@@ -30,4 +30,4 @@
 - head over to your AWS IAM account, go to users, click on the iam you are using, go to security, create access key, select cli, set description then it will be created. Download the .csv file
 
 **Install Visual Studio Code (VSCode) and add the AWS plugin**
-Install Visual Studio Code (VSCode) then at the right top corner you'd see a plus drop down sign, click on it and click on ubuntu and configure aws, put in the AWS Access Key ID and AWS AcceSecret Key from aws.
+Install Visual Studio Code (VSCode) then at the right top corner you'd see a plus drop down sign, click on it and click on ubuntu and configure aws, put in the AWS Access Key ID and AWS AcceSecret Key from AWS.
